@@ -21,3 +21,8 @@ The dataset contains the following columns:
 The data was prepared using SQL with the following steps:
 - Modified the order_date and order_time columns to appropriate date and time formats.
 - Added new columns for hour, month, and day of the week.
+
+### Metrics Calculation
+The following metrics were calculated using SQL:
+
+![image](https://github.com/user-attachments/assets/9355c34c-1f81-4a43-8dac-732520f47523)
