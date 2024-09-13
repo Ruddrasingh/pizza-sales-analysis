@@ -26,3 +26,27 @@ The data was prepared using SQL with the following steps:
 The following metrics were calculated using SQL:
 
 ![image](https://github.com/user-attachments/assets/9355c34c-1f81-4a43-8dac-732520f47523)
+
+**SQL Techniques Used**
+- Row Number: Used to rank rows within partitions.
+- Common Table Expressions (CTEs): Used for creating temporary result sets.
+- Aggregate Functions: SUM, AVG, COUNT, etc., for calculating metrics.
+- Date and Time Functions: STR_TO_DATE, HOUR, MONTH, DATE_FORMAT for date and time manipulation.
+
+### Visualization
+The data was visualized using Power BI to create a comprehensive dashboard.
+See them here:
+
+[pizza_sale_Dashboard.pdf](https://github.com/user-attachments/files/16998254/pizza_sale_Dashboard.pdf)
+
+**Power BI Techniques Used**
+- Power Query: Used for trimming data and unpivoting tables.
+- DAX Functions: Various DAX functions were used for calculations and metrics.
+- Top N Filters: Applied to focus on the top-performing pizzas.
+- Data Limiting: Limited data to relevant subsets for specific analyses.
+
+  **Key Findings**
+  - Popular Pizza Combinations: 🍕🍕 The most common pizza combination ordered together is The Hawaiian Pizza and The Thai Chicken Pizza, suggesting that customers enjoy pairing these flavors.
+  - Top 5 Ingredients by Total Orders: 🧄 The most popular ingredients are Garlic, followed by Tomatoes, Red Onions, Red Peppers, and Mozzarella Cheese.
+  - Worst Performing Pizza: 🍕 The Brie Core Pizza performs the worst in terms of total revenue, total volume, and total orders.
+  - Peak Order Hours: 🕛 The data indicates two peak periods for pizza orders: around 12 PM and 6 PM. To maximize sales, consider offering promotions during these peak hours.
