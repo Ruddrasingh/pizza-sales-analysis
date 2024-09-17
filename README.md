@@ -10,6 +10,8 @@ This project involves analyzing pizza sales data to uncover insights and trends.
 ### 1. Background and Overview
 This project is a fictional analysis of pizza sales data. It aims to uncover key insights into customer preferences and order patterns, using SQL for data processing and Power BI for visualization.
 
+The SQL queries used in this analysis are available [here](./pizza_sales_analysis.sql).
+
 ### 2. Data Structure Overview
 The dataset contains the following columns:
 | pizza_id | order_id | pizza_name_id | quantity | order_date | order_time | unit_price | total_price | pizza_size | pizza_category | pizza_ingredients | pizza_name |
