@@ -3,7 +3,7 @@
 ### Project Overview
 This project involves analyzing pizza sales data to uncover insights and trends. The analysis was performed using SQL for data manipulation and Power BI for visualization. The dataset includes various attributes related to pizza orders, such as order details, pizza types, prices, and more.
 
-![image](https://github.com/user-attachments/assets/b310c844-dcf6-43e3-8186-e8199333f242)
+![image](https://github.com/user-attachments/assets/81e23c99-4a6c-4252-b51d-6d27d4866592)
 
 ![image](https://github.com/user-attachments/assets/a8591ad9-ef60-4d37-af45-09f166386ea1)
 
